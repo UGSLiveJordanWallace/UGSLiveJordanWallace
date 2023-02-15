@@ -42,11 +42,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/css-38-226095.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.iconscout.com/icon/free/png-256/css-38-226095.png">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
-</picture>
 
 ## I am currently learning the following languages 👇
 <picture>
@@ -58,4 +53,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
   <source media="(prefers-color-scheme: light)" srcset="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
 </picture>
