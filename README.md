@@ -6,16 +6,11 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/UGSLiveJordanWallace/UGSLiveJordanWallace/main/github-profile-img.jpg">
 </picture>
 
-## I am an intermediate level software developer with decent experience in the following programming languages 👇
+## I am an intermediate level software developer with decent experience in the following programming languages and scripts 👇
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/java-25-226002.png">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/java-25-226002.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.iconscout.com/icon/free/png-256/java-25-226002.png">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/csharp-2-1175242.png">
@@ -58,4 +53,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">
 </picture>
