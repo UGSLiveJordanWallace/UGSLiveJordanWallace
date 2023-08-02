@@ -38,4 +38,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/free-c-58-1175247.png?f=webp">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/free-c-58-1175247.png?f=webp">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.iconscout.com/icon/free/png-256/free-c-58-1175247.png?f=webp">
-</picture>
+</picture> 
