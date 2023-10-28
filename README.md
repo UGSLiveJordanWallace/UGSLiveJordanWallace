@@ -8,11 +8,6 @@
 
 ## I am an intermediate level software developer with decent experience in the following programming languages and scripts 👇
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/java-25-226002.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/java-25-226002.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.iconscout.com/icon/free/png-256/java-25-226002.png">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png">
