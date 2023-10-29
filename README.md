@@ -44,3 +44,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/free-c-58-1175247.png?f=webp">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://cdn.iconscout.com/icon/free/png-256/free-c-58-1175247.png?f=webp">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40geek.saurabh98%2Fwhy-prefer-golang-7017a68ec3c4&psig=AOvVaw0O9wwmh4R1qu-bdaRrynvc&ust=1698709728708000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCnhoG5nIIDFQAAAAAdAAAAABAI">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40geek.saurabh98%2Fwhy-prefer-golang-7017a68ec3c4&psig=AOvVaw0O9wwmh4R1qu-bdaRrynvc&ust=1698709728708000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCnhoG5nIIDFQAAAAAdAAAAABAI">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40geek.saurabh98%2Fwhy-prefer-golang-7017a68ec3c4&psig=AOvVaw0O9wwmh4R1qu-bdaRrynvc&ust=1698709728708000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCnhoG5nIIDFQAAAAAdAAAAABAI">
+</picture>
