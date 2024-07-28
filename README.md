@@ -22,11 +22,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.icon-icons.com/icons2/2415/PNG/256/javascript_original_logo_icon_146455.png">
   <img alt="Javascript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/1609975?s=280&v=4">
-  <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/1609975?s=280&v=4">
-  <img alt="Dart" src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4">
-</picture>
 
 ## I am currently learning the following languages 👇
 <picture>
