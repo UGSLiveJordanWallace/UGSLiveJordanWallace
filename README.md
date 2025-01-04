@@ -1,4 +1,4 @@
-# Jordan Wallace ✌️
+# Jordan Wallace
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UGSLiveJordanWallace/UGSLiveJordanWallace/main/github-profile-img.jpg">
