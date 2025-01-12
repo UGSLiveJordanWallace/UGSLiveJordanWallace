@@ -44,3 +44,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:250/format:webp/1*vmFSpk9xtpxAHkH7cmt-3Q.png">
   <img alt="golang" src="https://miro.medium.com/v2/resize:fit:250/format:webp/1*vmFSpk9xtpxAHkH7cmt-3Q.png">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://static-00.iconduck.com/assets.00/typescript-icon-icon-256x256-ohttv0b8.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://static-00.iconduck.com/assets.00/typescript-icon-icon-256x256-ohttv0b8.png">
+  <img alt="golang" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-256x256-ohttv0b8.png">
+</picture>
