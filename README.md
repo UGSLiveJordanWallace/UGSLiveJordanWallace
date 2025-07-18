@@ -32,6 +32,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
   <img alt="MySQL" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/free-typescript-icon-download-in-svg-png-gif-file-formats--programming-language-logo-logos-pack-icons-1174965.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.iconscout.com/icon/free/png-256/free-typescript-icon-download-in-svg-png-gif-file-formats--programming-language-logo-logos-pack-icons-1174965.png">
+  <img alt="MySQL" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-icon-download-in-svg-png-gif-file-formats--programming-language-logo-logos-pack-icons-1174965.png">
+</picture>
 
 ## I am currently learning the following languages 👇
 <picture>
