@@ -1,11 +1,3 @@
-# Jordan Wallace
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UGSLiveJordanWallace/UGSLiveJordanWallace/main/github-profile-img.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UGSLiveJordanWallace/UGSLiveJordanWallace/main/github-profile-img.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/UGSLiveJordanWallace/UGSLiveJordanWallace/main/github-profile-img.jpg">
-</picture>
-
 ## I am an intermediate level software developer with decent experience in the following programming languages 👇
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png">
